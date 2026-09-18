@@ -1,6 +1,15 @@
 # 🛑 Vergeet Mij! (AVG/GDPR Sloopkogel)
 
-Een krachtige, 100% client-side webapplicatie om bedrijven juridisch te dwingen persoonsgegevens, advertentieprofielen en accounts permanent te wissen (Art. 17 AVG / GDPR).
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-fabjan4u.github.io%2Fvergeet--mij-10b981?style=for-the-badge&logo=githubpages&logoColor=white)](https://fabjan4u.github.io/vergeet-mij/)
+[![Privacy Guaranteed](https://img.shields.io/badge/Privacy-100%25%20Client--Side-3b82f6?style=for-the-badge&logo=shield&logoColor=white)](https://fabjan4u.github.io/vergeet-mij/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/fabjan4u/vergeet-mij/pulls)
+
+</div>
+
+> **Een krachtige, 100% client-side webapplicatie om bedrijven juridisch te dwingen persoonsgegevens, advertentieprofielen en accounts permanent te wissen (Art. 17 AVG / GDPR).**
 
 ---
 
