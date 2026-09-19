@@ -1,4 +1,4 @@
-# 🛑 Vergeet Mij! (AVG/GDPR Sloopkogel)
+# 🛑 Vergeet Mij! (AVG/GDPR)
 
 <div align="center">
 
